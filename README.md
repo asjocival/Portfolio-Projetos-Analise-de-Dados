@@ -68,7 +68,7 @@ Realizar uma análise exploratória de dados (EDA) para identificar padrões, op
 * As perdas estão concentradas em regiões específicas, indicando possíveis falhas operacionais
 * Nem todos os vendedores com alta receita possuem boa margem, indicando ineficiência em algumas vendas
 
-🔗 [Acessar projeto](https://github.com/asjocival/dashboard-vendas-excel.git)
+🔗 [Acessar projeto](https://github.com/asjocival/Analise-Vendas-Python.git)
 
 ---
 
