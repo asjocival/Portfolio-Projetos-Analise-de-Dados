@@ -31,7 +31,7 @@
 **🛠️ Tecnologias:**  
 Power BI | DAX | Modelagem de Dados  
 
-🔗 [Acessar projeto](https://github.com/asjocival/dashboard-completo-vendas-1-power-BI.git)
+🔗 [Acessar projeto]([https://github.com/asjocival/dashboard-completo-vendas-1-power-BI.git])
 
 ---
 
