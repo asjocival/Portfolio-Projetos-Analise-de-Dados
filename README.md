@@ -11,7 +11,7 @@
 ### 📊 Dashboard Estratégico de Vendas e Performance (Power BI)
 
 <p align="center">
-  <img src="print-dashboard-completo-vendas-1.png" width="450"/>
+  <img src="print-dashboard-completo-1.png" width="450"/>
 </p>
 
 📌 Dashboard completo com foco em desempenho comercial, lucratividade e identificação de perdas.
