@@ -35,18 +35,37 @@ Power BI | DAX | Modelagem de Dados
 
 ---
 
-### 📈 Dashboard de Vendas no Excel
+### 📊 Análise de Vendas com Python
 
 <p align="center">
   <img src="./imagens/dashboard-excel.png" width="450"/>
 </p>
 
-📌 Dashboard interativo com foco em análise rápida de desempenho.
+## 🎯 Objetivo
 
-**🔍 Análises:**
-- Receita por período  
-- Performance de produtos  
-- Indicadores de vendas  
+Realizar uma análise exploratória de dados (EDA) para identificar padrões, oportunidades e problemas que impactam diretamente os resultados financeiros da empresa.
+
+## 📊 Análises Realizadas
+
+* Receita total e lucro total
+* Margem de lucro
+* Ranking dos vendedores por receita
+* Produtos mais lucrativos e menos rentáveis
+* Análise de perdas financeiras
+* Receita por região  
+
+** 🛠️ Ferramentas Utilizadas **
+
+* Python
+* pandas
+* matplotlib
+
+## 💡 Principais Insights
+
+* A receita está concentrada em poucos vendedores, indicando dependência comercial
+* Alguns produtos apresentam prejuízo, sugerindo necessidade de revisão de preços ou custos
+* As perdas estão concentradas em regiões específicas, indicando possíveis falhas operacionais
+* Nem todos os vendedores com alta receita possuem boa margem, indicando ineficiência em algumas vendas
 
 🔗 [Acessar projeto](https://github.com/asjocival/dashboard-vendas-excel.git)
 
