@@ -78,7 +78,7 @@ Realizar uma análise exploratória de dados (EDA) para identificar padrões, op
   <img src="print-total-vendas.png" width="250"/>
   <img src="print-top-produtos.png" width="250"/>
   <img src="print-top-clientes.png" width="250"/>
-  <img src="print-status-de-entregas.png" width="250"/>
+  <img src="print-status-de-entrega.png" width="250"/>
   <img src="print-regiao.png" width="250"/>
 </p>
 
