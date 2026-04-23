@@ -54,7 +54,7 @@ Realizar uma análise exploratória de dados (EDA) para identificar padrões, op
 * Análise de perdas financeiras
 * Receita por região  
 
-** 🛠️ Ferramentas Utilizadas **
+## 🛠️ Ferramentas Utilizadas
 
 * Python
 * pandas
