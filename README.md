@@ -16,7 +16,7 @@
 
 📌 Dashboard completo no Power BI com foco em análise estratégica de vendas, desempenho financeiro, controle de estoque e eficiência logística.
 
-**🔗 Integração com Excel**
+**🔗 Integração com Excel:**
 
 Os dados são alimentados através de uma planilha Excel conectada diretamente ao Power BI.
 
@@ -24,7 +24,7 @@ Os dados são alimentados através de uma planilha Excel conectada diretamente a
 ✔ Dados dinâmicos  
 ✔ Simulação de ambiente corporativo real  
 
-**🔍 Visão Geral**
+**🔍 Visão Geral:**
 - KPIs principais (Receita, Lucro, Margem, Perdas, Atrasos)
 - Evolução: Receita vs Custo vs Lucro
 - Vendas por canal
@@ -32,7 +32,7 @@ Os dados são alimentados através de uma planilha Excel conectada diretamente a
 - Top vendedores
 - Status dos pedidos
 
-**🛠️ Tecnologias Utilizadas**
+**🛠️ Tecnologias Utilizadas:**
 
 - Power BI
 - Excel
