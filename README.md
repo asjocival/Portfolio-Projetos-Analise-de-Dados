@@ -8,11 +8,38 @@
 
 ## 🚀 Projetos em Destaque
 
-
+### 📊 Dashboard de Análise de Vendas, Estoque e Logística
 
 <p align="center">
   <img src="IMG_0820.gif" width="450"/>
 </p>
+
+📌 Dashboard completo no Power BI com foco em análise estratégica de vendas, desempenho financeiro, controle de estoque e eficiência logística.
+
+**🔗 Integração com Excel**
+
+Os dados são alimentados através de uma planilha Excel conectada diretamente ao Power BI.
+
+✔ Atualização automática  
+✔ Dados dinâmicos  
+✔ Simulação de ambiente corporativo real  
+
+**🔍 Visão Geral**
+- KPIs principais (Receita, Lucro, Margem, Perdas, Atrasos)
+- Evolução: Receita vs Custo vs Lucro
+- Vendas por canal
+- Faturamento por região
+- Top vendedores
+- Status dos pedidos
+
+**🛠️ Tecnologias Utilizadas**
+
+- Power BI
+- Excel
+- DAX (Data Analysis Expressions)
+- Power Query (M)
+
+---
 
 ### 📊 Dashboard Estratégico de Vendas e Performance (Power BI)
 
