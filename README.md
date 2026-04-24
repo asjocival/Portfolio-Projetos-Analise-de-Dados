@@ -8,6 +8,12 @@
 
 ## 🚀 Projetos em Destaque
 
+
+
+<p align="center">
+  <img src="IMG_0820.gif" width="450"/>
+</p>
+
 ### 📊 Dashboard Estratégico de Vendas e Performance (Power BI)
 
 <p align="center">
