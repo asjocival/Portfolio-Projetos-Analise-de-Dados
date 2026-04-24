@@ -39,6 +39,8 @@ Os dados são alimentados através de uma planilha Excel conectada diretamente a
 - DAX (Data Analysis Expressions)
 - Power Query (M)
 
+🔗 [Acessar projeto](https://github.com/asjocival/dashboard-analise-de-vendas-e-logistica.git)
+
 ---
 
 ### 📊 Dashboard Estratégico de Vendas e Performance (Power BI)
@@ -75,11 +77,11 @@ Power BI | DAX | Modelagem de Dados
   <img src="print-3.png" width="350"/>
 </p>
 
-## 🎯 Objetivo
+## 🎯 Objetivo:
 
 Realizar uma análise exploratória de dados (EDA) para identificar padrões, oportunidades e problemas que impactam diretamente os resultados financeiros da empresa.
 
-## 📊 Análises Realizadas
+**📊 Análises Realizadas:**
 
 * Receita total e lucro total
 * Margem de lucro
@@ -88,13 +90,13 @@ Realizar uma análise exploratória de dados (EDA) para identificar padrões, op
 * Análise de perdas financeiras
 * Receita por região  
 
-## 🛠️ Ferramentas Utilizadas
+**🛠️ Ferramentas Utilizadas:**
 
 * Python
 * pandas
 * matplotlib
 
-## 💡 Principais Insights
+**💡 Principais Insights:**
 
 * A receita está concentrada em poucos vendedores, indicando dependência comercial
 * Alguns produtos apresentam prejuízo, sugerindo necessidade de revisão de preços ou custos
