@@ -77,9 +77,9 @@ Realizar uma análise exploratória de dados (EDA) para identificar padrões, op
 <p align="center">
   <img src="print-total-vendas.png" width="300"/>
   <img src="print-top-produtos.png" width="300"/>
-  <img src="print-top-clientes.png" width="250"/>
-  <img src="print-status-de-entrega.png" width="250"/>
-  <img src="print-regiao.png" width="250"/>
+  <img src="print-top-clientes.png" width="300"/>
+  <img src="print-status-de-entrega.png" width="300"/>
+  <img src="print-regiao.png" width="300"/>
 </p>
 
 📌 Exploração de dados para identificação de padrões de consumo.
