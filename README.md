@@ -129,8 +129,7 @@ Realizar uma análise exploratória de dados (EDA) para identificar padrões, op
 ---
 
 ## 📊 Outros Projetos
-
-- 🔗 [Dashboard Vendas e Logística](https://github.com/asjocival/dashboard-analise-de-vendas-e-logistica.git)  
+  
 - 🔗 [Dashboard Omnichannel](https://github.com/asjocival/dashboard-analise-de-vendas-omnichannel.git)  
 - 🔗 [Dashboard com Atualização Automática](https://github.com/asjocival/dashboard-vendas-atualizacao-automatica-com-planilha-excel.git)  
 - 🔗 [Dashboard Posto de Gasolina](https://github.com/asjocival/dashboard-posto-de-gasolina.git)  
