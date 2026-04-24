@@ -75,8 +75,8 @@ Realizar uma análise exploratória de dados (EDA) para identificar padrões, op
 ### 🧾 Análise de Vendas com SQL
 
 <p align="center">
-  <img src="print-total-vendas.png" width="250"/>
-  <img src="print-top-produtos.png" width="250"/>
+  <img src="print-total-vendas.png" width="300"/>
+  <img src="print-top-produtos.png" width="300"/>
   <img src="print-top-clientes.png" width="250"/>
   <img src="print-status-de-entrega.png" width="250"/>
   <img src="print-regiao.png" width="250"/>
@@ -99,8 +99,7 @@ Realizar uma análise exploratória de dados (EDA) para identificar padrões, op
 - 🔗 [Dashboard Omnichannel](https://github.com/asjocival/dashboard-analise-de-vendas-omnichannel.git)  
 - 🔗 [Dashboard com Atualização Automática](https://github.com/asjocival/dashboard-vendas-atualizacao-automatica-com-planilha-excel.git)  
 - 🔗 [Dashboard Posto de Gasolina](https://github.com/asjocival/dashboard-posto-de-gasolina.git)  
-- 🔗 [Dashboard Vendas 1](https://github.com/asjocival/Dashboard-de-Vendas-no-Power-BI.git)  
-- 🔗 [Dashboard Vendas 2](https://github.com/asjocival/Dashboard-Vendas-2-Power-BI.git)  
+- 🔗 [Dashboard Vendas 1](https://github.com/asjocival/Dashboard-de-Vendas-no-Power-BI.git)    
 
 ---
 
