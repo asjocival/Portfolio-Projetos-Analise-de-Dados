@@ -110,11 +110,7 @@ Realizar uma análise exploratória de dados (EDA) para identificar padrões, op
 ### 🧾 Análise de Vendas com SQL
 
 <p align="center">
-  <img src="print-total-vendas.png" width="300"/>
-  <img src="print-top-produtos.png" width="300"/>
-  <img src="print-top-clientes.png" width="300"/>
-  <img src="print-status-de-entrega.png" width="300"/>
-  <img src="print-regiao.png" width="300"/>
+  <img src="IMG_0822.gif" width="400"/>
 </p>
 
 📌 Exploração de dados para identificação de padrões de consumo.
