@@ -11,7 +11,7 @@
 ### 📊 Dashboard de Análise de Vendas, Estoque e Logística
 
 <p align="center">
-  <img src="IMG_0820.gif" width="600"/>
+  <img src="Gifs/IMG_0820.gif" width="600"/>
 </p>
 
 📌 Dashboard completo no Power BI com foco em análise estratégica de vendas, desempenho financeiro, controle de estoque e eficiência logística.
@@ -73,8 +73,8 @@ Power BI | DAX | Modelagem de Dados
 ### 📊 Análise de Vendas com Python
 
 <p align="center">
-  <img src="Imagens/print-2.png" width="500"/>
-  <img src="Imagens/print-3.png" width="500"/>
+  <img src="Imagens/print-2.png" width="450"/>
+  <img src="Imagens/print-3.png" width="450"/>
 </p>
 
 ## 🎯 Objetivo:
@@ -110,7 +110,7 @@ Realizar uma análise exploratória de dados (EDA) para identificar padrões, op
 ### 🧾 Análise de Vendas com SQL
 
 <p align="center">
-  <img src="IMG_0822.gif" width="600"/>
+  <img src="Gifs/IMG_0822.gif" width="600"/>
 </p>
 
 📌 Exploração de dados para identificação de padrões de consumo.
