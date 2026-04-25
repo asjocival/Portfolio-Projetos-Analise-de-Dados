@@ -11,7 +11,7 @@
 ### 📊 Dashboard de Análise de Vendas, Estoque e Logística
 
 <p align="center">
-  <img src="Gifs/IMG_0820.gif" width="600"/>
+  <img src="Gifs/vendas_estoque_logistica.gif" width="600"/>
 </p>
 
 📌 Dashboard completo no Power BI com foco em análise estratégica de vendas, desempenho financeiro, controle de estoque e eficiência logística.
