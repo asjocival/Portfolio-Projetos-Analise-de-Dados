@@ -73,8 +73,8 @@ Power BI | DAX | Modelagem de Dados
 ### 📊 Análise de Vendas com Python
 
 <p align="center">
-  <img src="Imagens/print-2.png" width="500"/>
-  <img src="Imagens/print-3.png" width="500"/>
+  <img src="Imagens/print-2.png" width="450"/>
+  <img src="Imagens/print-3.png" width="450"/>
 </p>
 
 ## 🎯 Objetivo:
