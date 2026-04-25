@@ -46,7 +46,7 @@ Os dados são alimentados através de uma planilha Excel conectada diretamente a
 ### 📊 Dashboard Estratégico de Vendas e Performance (Power BI)
 
 <p align="center">
-  <img src="print-dashboard-completo-1.png" width="600"/>
+  <img src="Imagens/print-dashboard-completo-1.png" width="600"/>
 </p>
 
 📌 Dashboard completo com foco em desempenho comercial, lucratividade e identificação de perdas.
@@ -73,8 +73,8 @@ Power BI | DAX | Modelagem de Dados
 ### 📊 Análise de Vendas com Python
 
 <p align="center">
-  <img src="print-2.png" width="500"/>
-  <img src="print-3.png" width="500"/>
+  <img src="Imagens/print-2.png" width="500"/>
+  <img src="Imagens/print-3.png" width="500"/>
 </p>
 
 ## 🎯 Objetivo:
